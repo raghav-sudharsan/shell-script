@@ -10,7 +10,9 @@
 ######################
 
 set -x #debug mode #print the output with command in user terminal
-
+date
+whoami
 df -h 
 free -g
 nproc
+
